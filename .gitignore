@@ -1,0 +1,7 @@
+/.settings/
+/.buildpath
+/.project
+/application/log/*
+!/application/log/.empty
+/vendor/
+/composer.lock

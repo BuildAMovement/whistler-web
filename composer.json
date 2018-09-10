@@ -1,0 +1,7 @@
+{
+	"require" : {
+		"ralouphie/mimey" : "^1.0",
+		"swiftmailer/swiftmailer": "^5.4",
+		"gilbitron/easycsrf": "^1.0"
+	}
+}
